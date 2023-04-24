@@ -199,13 +199,13 @@ export const SHOP_DATA = [
   },
   {
   id: 42,
-  name: 'Pink Contrast Tape Tee With Drawstring Waist Shorts',
+  name: 'Pink Tape Tee With Drawstring Waist Shorts',
   imageUrl: 'https://static.wixstatic.com/media/360ea3_923e7faf1de74d7d8dc5f6ec86d2559a~mv2.png',
   price: 1500
   },
   {
   id: 43,
-  name: 'Khaki Contrast Tape Tee With Drawstring Waist Shorts',
+  name: 'Khaki Tape Tee With Drawstring Waist Shorts',
   imageUrl: 'https://static.wixstatic.com/media/360ea3_8404b85e73204ec1b1f99e44a2358483~mv2.png',
   price: 1500
   },
@@ -290,13 +290,13 @@ export const SHOP_DATA = [
   },
   {
   id: 56,
-  name: 'Women Hollow Out Fashion Fedora Hat For Daily Life',
+  name: 'Women Hollow Out Fashion Fedora Hat',
   imageUrl: 'https://static.wixstatic.com/media/360ea3_eb58318ec7394f48bbc4f315780644b0~mv2.png',
   price: 1100
   },
   {
   id: 57,
-  name: 'Women Houndstooth Pattern Twilly Scarf Decor Straw Hat',
+  name: 'Women Houndstooth Twilly Straw Hat',
   imageUrl: 'https://static.wixstatic.com/media/360ea3_b443a04d579b48ccb69143e31901b641~mv2.png',
   price: 1050
   },
@@ -374,7 +374,7 @@ export const SHOP_DATA = [
   },
   {
   id: 70,
-  name: 'Men Plain Ribbed Knit Cuff Long Beanie - Black',
+  name: 'Men Plain Cuff Long Beanie - Black',
   imageUrl: 'https://static.wixstatic.com/media/360ea3_3f63cd9aa34a43cfa9d4697fbc9c585f~mv2.jpg',
   price: 1100
   }
@@ -405,7 +405,7 @@ export const SHOP_DATA = [
   },
   {
   id: 74,
-  name: 'Women Plaid Pattern Pocket Front Overcoat',
+  name: 'Women Plaid Pattern Overcoat',
   imageUrl: 'https://static.wixstatic.com/media/360ea3_1afc438028204a14ba263f3af60a4f88~mv2.png',
   price: 6030
   },
@@ -441,7 +441,7 @@ export const SHOP_DATA = [
   },
   {
   id: 80,
-  name: 'Women Shawl Collar Double Button Belted Overcoat',
+  name: 'Women Shawl Collar Belted Overcoat',
   imageUrl: 'https://static.wixstatic.com/media/360ea3_74a9a0ade0b54a59b8935d36a8b32ed7~mv2.png',
   price: 8050
   },
@@ -514,7 +514,7 @@ export const SHOP_DATA = [
   items: [
   {
   id: 91,
-  name: 'Men Casual Shoes Slip On Loafers',
+  name: 'Men Slip On Loafers',
   imageUrl: 'https://static.wixstatic.com/media/360ea3_a16b5421bf864f928f50e9a8bfb087b0~mv2.png',
   price: 2200
   },
