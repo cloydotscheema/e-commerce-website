@@ -6,4 +6,4 @@ This project is a web-based shopping system. It's objective is to deliver an onl
 ![image](https://github.com/cloydotscheema/e-commerce-website/assets/81610178/423d5b3f-310a-4712-a4f5-d57c7b8dcc4e)
 
 
-                                                              SYSTEM ARCHITECTURE
+                                                   SYSTEM ARCHITECTURE
